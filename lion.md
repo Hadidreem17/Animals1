@@ -1,5 +1,5 @@
-# Lion ?? 
+# Lion :lion: 
  
-![Lion](https://upload.wikimedia.org/wikipedia/commons/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg) 
+![Lion](https://upload.wikimedia.org/wikipedia/commons/f/fa/Lion_au_repos_parc_pendjari.jpg) 
  
-The lion is a large cat from Africa and India, known for its mane and living in prides. 
+Lions are large carnivorous mammals that belong to the family of Felidae. 
