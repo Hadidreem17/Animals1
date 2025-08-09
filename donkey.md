@@ -1,5 +1,5 @@
-# Donkey ?? 
+# Donkey :donkey: 
  
-![Donkey](https://en.wikipedia.org/wiki/Donkey#/media/File:Donkey_in_Clovelly,_North_Devon,_England.jpg) 
+![Donkey](https://upload.wikimedia.org/wikipedia/commons/8/82/Baudet.jpg) 
  
-The donkey is a domesticated member of the horse family, known for its stubbornness and endurance. 
+Donkeys are domesticated members of the horse family, known for their endurance and strength. 
